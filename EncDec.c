@@ -109,7 +109,7 @@ int decrypt(char *dMessage, int dkey)
     }
  
     //The original message is displayed to the user
-    printf("\n Decrypted message: %s\n", dMessage);
+    printf("\nDecrypted message: %s\n", dMessage);
 }
  
 void philosopher()
