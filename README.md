@@ -4,4 +4,4 @@ A simple caesar cipher program using a random number generator derived from dini
 
 Compile Command:
 
-gcc -fopenmp -o 
+gcc -fopenmp -o encdec EncDec.c
